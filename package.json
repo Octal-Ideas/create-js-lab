@@ -1,0 +1,30 @@
+{
+  "name": "create-js-lab",
+  "version": "1.1.0",
+  "description": "CLI tool to create JavaScript labs with modern testing structure",
+  "main": "index.js",
+  "bin": {
+    "create-js-lab": "./index.js"
+  },
+  "keywords": [
+    "javascript",
+    "lab",
+    "education",
+    "testing",
+    "mocha",
+    "chai"
+  ],
+  "author": "Principal Kelvo",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Octal-Ideas/create-js-lab.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Octal-Ideas/create-js-lab/issues"
+  },
+  "homepage": "https://github.com/Octal-Ideas/create-js-lab#readme",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
