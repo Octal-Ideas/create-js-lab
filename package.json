@@ -1,7 +1,7 @@
 {
   "name": "create-js-lab",
-  "version": "1.1.0",
-  "description": "CLI tool to create JavaScript labs with modern testing structure",
+  "version": "1.0.0",
+  "description": "CLI tool to create modern, secure JavaScript labs with Vitest",
   "main": "index.js",
   "bin": {
     "create-js-lab": "./index.js"
@@ -11,8 +11,8 @@
     "lab",
     "education",
     "testing",
-    "mocha",
-    "chai"
+    "vitest",
+    "es modules"
   ],
   "author": "Principal Kelvo",
   "license": "MIT",
@@ -25,6 +25,6 @@
   },
   "homepage": "https://github.com/Octal-Ideas/create-js-lab#readme",
   "engines": {
-    "node": ">=14.0.0"
+    "node": ">=16.0.0"
   }
 }
